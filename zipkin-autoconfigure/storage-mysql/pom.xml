@@ -50,7 +50,7 @@
 
     <dependency>
       <groupId>io.zipkin.brave</groupId>
-      <artifactId>brave-core</artifactId>
+      <artifactId>brave</artifactId>
       <version>${brave.version}</version>
       <optional>true</optional>
     </dependency>
